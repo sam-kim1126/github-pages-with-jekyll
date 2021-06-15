@@ -1,2 +1,2 @@
-its my first blog
-YAML front matter
+Title: YAML front matter
+first blog
